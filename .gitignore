@@ -1,0 +1,13 @@
+# AWS IoT Certificates — NEVER commit these
+certs/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Mac
+.DS_Store
